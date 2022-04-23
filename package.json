@@ -1,0 +1,22 @@
+{
+  "name": "edamama-backend",
+  "version": "1.0.0",
+  "description": "Node.Js Resful CRUD API with Node.js, Express And MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemen server.js"  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api",
+    "mongodb"
+  ],
+  "author": "Grace Abian",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  }
+}
